@@ -1,4 +1,3 @@
-
 # 🚀 CI/CD Pipeline with GitHub Actions
 
 ## 📌 Overview
@@ -18,43 +17,9 @@ This project demonstrates the implementation of a Continuous Integration and Con
 ## 🛠️ Tech Stack
 - GitHub Actions  
 - Git & GitHub  
-- Python / Java (based on your project)  
+- Python / Java  
 - YAML (workflow configuration)
 
 ---
 
 ## 📂 Project Structure
-├── .github/
-│ └── workflows/
-│ └── ci.yml
-├── src/
-├── tests/
-├── README.md
-
-
----
-
-## 🔄 CI/CD Workflow
-
-### 🔹 Continuous Integration (CI)
-- Triggered on push and pull requests  
-- Installs dependencies  
-- Runs build process  
-- Executes test cases  
-
-### 🔹 Continuous Deployment (CD)
-- Deploys application to a non-production environment  
-- Ensures successful build before deployment  
-
----
-
-## ▶️ How to Run Locally
-1. Clone the repository  
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-
-cd your-repo-name
-
-pip install -r requirements.txt
-
-python app.py
