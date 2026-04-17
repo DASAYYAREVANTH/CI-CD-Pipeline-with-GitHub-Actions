@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <h1 align="center">
 CI/CD for Machine Learning Models
@@ -134,3 +135,30 @@ Once the changes are merged, a CD pipeline will be triggered to deploy the ML mo
 Click "Try it out" to try out the model on a sample dataset.
 
 ![](demo_images/fastapi.gif)
+=======
+# 🚀 CI/CD Pipeline with GitHub Actions
+
+## 📌 Overview
+This project demonstrates the implementation of a Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub Actions. The pipeline automates the build, test, and deployment process for a sample application, ensuring faster and more reliable delivery.
+
+---
+
+## ⚙️ Features
+- Automated build and test workflows using GitHub Actions  
+- Continuous Integration on every push and pull request  
+- Artifact generation and workflow execution tracking  
+- Structured CI/CD pipeline for non-production environments  
+- Version control with GitHub (branching and pull requests)
+
+---
+
+## 🛠️ Tech Stack
+- GitHub Actions  
+- Git & GitHub  
+- Python / Java  
+- YAML (workflow configuration)
+
+---
+
+## 📂 Project Structure
+>>>>>>> e99ba5bca9df2d8464782d2afdb7913271660636
